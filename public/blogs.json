@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover-picture": "https://i.ibb.co/jHkNgGq/andreas-weilguny-fnlf-JRw4-b-I-unsplash.jpg",
+        "title": "Post 1",
+        "author": "John Doe",
+        "author-image": "https://i.ibb.co/4KFscRq/sadaf-amininia-Jf-Yv-YQ4p-Fc-Y-unsplash.jpg",
+        "post-date": "2022-01-01 12:00",
+        "reading-time": 5,
+        "hashtags": ["tech", "innovation"]
+    },
+    {
+        "id": 2,
+        "cover-picture": "https://i.ibb.co/Cbm8DRB/milin-john-Ley-Xupc-UNYs-unsplash.jpg",
+        "title": "Post 2",
+        "author": "Jane Smith",
+        "author-image": "https://i.ibb.co/pLB8T9m/liz-kopadze-f-Bn7i-Lrq-Hx4-unsplash.jpg",
+        "post-date": "2022-02-01 14:00",
+        "reading-time": 3,
+        "hashtags": ["ai", "machinelearning"]
+    },
+    {
+        "id": 3,
+        "cover-picture": "https://i.ibb.co/ggZd7jM/kirill-prikhodko-z-MNs-G1o-EXk4-unsplash.jpg",
+        "title": "Post 3",
+        "author": "Bob Johnson",
+        "author-image": "https://i.ibb.co/GFLX1g9/liz-kopadze-Obnq-FRt-ACi0-unsplash.jpg",
+        "post-date": "2022-03-01 10:00",
+        "reading-time": 7,
+        "hashtags": ["data", "analytics"]
+    },
+    {
+        "id": 4,
+        "cover-picture": "https://i.ibb.co/ZKV4GM2/liz-morgan-i-JU-HWSAHtc-unsplash.jpg",
+        "title": "Post 4",
+        "author": "Alice Brown",
+        "author-image": "https://i.ibb.co/W0QjTrs/blake-wisz-c-G-Bdl3h8-Mw-unsplash.jpg",
+        "post-date": "2022-04-01 16:00",
+        "reading-time": 4,
+        "hashtags": ["cloud", "computing"]
+    },
+    {
+        "id": 5,
+        "cover-picture": "https://i.ibb.co/jTBn3gN/s-n-pattenden-Wgl-KUPo-Ldt8-unsplash.jpg",
+        "title": "Post 5",
+        "author": "Mike Davis",
+        "author-image": "https://i.ibb.co/4K5WJVR/mansoor-jokar-l-Xl-Ck-Az-LHI-unsplash.jpg",
+        "post-date": "2022-05-01 12:00",
+        "reading-time": 6,
+        "hashtags": ["cybersecurity", "hacking"]
+    }
+]
